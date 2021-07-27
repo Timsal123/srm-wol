@@ -1,2 +1,2 @@
 # srm-wol
-Test repo for SRM-wol
+Test repo for SRM-woll
